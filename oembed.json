@@ -1,0 +1,14 @@
+{
+  "html": "<iframe style=\"border-radius: 12px\" width=\"100%\" height=\"152\" title=\"MusicSite Embed: Trodation\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\" src=\"https://music.stoako.com/testsong2embed.html\"></iframe>",
+  "iframe_url": "https://music.stoako.com/testsong2embed.html",
+  "width": 456,
+  "height": 152,
+  "version": "1.0",
+  "provider_name": "MusicSite",
+  "provider_url": "https://music.stoako.com",
+  "type": "rich",
+  "title": "Trodation",
+  "thumbnail_url": "https://music.stoako.com/assets/images/tkds/Trodation.png",
+  "thumbnail_width": 300,
+  "thumbnail_height": 300
+}
